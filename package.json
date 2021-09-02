@@ -1,0 +1,25 @@
+{
+  "name": "practice-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamindaniels21/practice-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjamindaniels21/practice-deploy/issues"
+  },
+  "homepage": "https://github.com/benjamindaniels21/practice-deploy#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.16.1"
+  }
+}
